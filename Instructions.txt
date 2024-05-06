@@ -1,0 +1,16 @@
+1. Download the iso file "https://sourceforge.net/projects/ophcrack/"
+File name - ophcrack-xp-livecd-3.6.0.iso
+
+2. Open the Windo XP setting in VirtualBox Manager, then Mount the iso file in WindowXP
+
+3. Tick the Checkbox the "LIVE CD/DVD" in setting 
+
+4. Open the system (Window XP) But it will open Ophcrack.
+
+5. Configure the system(Ophcrack)
+
+6. Copy/Save the SAM and SYSTEM file in desktop(Create shortcut)
+
+7. Brute or Crack 
+
+8. Password crack
